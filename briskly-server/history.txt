@@ -1,0 +1,1000 @@
+ 1087  ./chord 
+ 1088  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1089  ./chord 
+ 1090  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1091  ./chord 
+ 1092  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1093  ./chord 
+ 1094  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1095  ./chord 
+ 1096  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1097  ./chord 
+ 1098  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1099  ./chord 
+ 1100  clear
+ 1101  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1102  ./chord 
+ 1103  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1104  ./chord 
+ 1105  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1106  ./chord 
+ 1107  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1108  ./chord 
+ 1109  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1110  ./chord 
+ 1111  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1112  ./chord 
+ 1113  clear
+ 1114  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1115  ./chord 
+ 1116  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1117  ./chord 
+ 1118  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1119  ./chord 
+ 1120  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1121  ./chord 
+ 1122  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1123  ./chord 
+ 1124  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1125  ./chord 
+ 1126  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1127  ./chord 
+ 1128  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1129  ./chord 
+ 1130  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1131  ./chord 
+ 1132  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1133  ./chord 
+ 1134  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1135  ./chord 
+ 1136  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1137  ./chord 
+ 1138  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1139  ./chord 
+ 1140  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1141  ./chord 
+ 1142  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1143  ./chord 
+ 1144  ./chord -> test.txt
+ 1145  gedit test.txt &
+ 1146  ./chord -> test.txt
+ 1147  gedit test.txt &
+ 1148  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1149  gedit test.txt &
+ 1150  ./chord -> test.txt
+ 1151  gedit test.txt &
+ 1152  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1153  ./chord -> test.txt
+ 1154  gedit test.txt &
+ 1155  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1156  ./chord
+ 1157  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1158  ./chord
+ 1159  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1160  ./chord
+ 1161  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1162  ./chord
+ 1163  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1164  ./chord
+ 1165  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1166  ./chord
+ 1167  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1168  ./chord
+ 1169  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1170  ./chord
+ 1171  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1172  ./chord
+ 1173  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1174  ./chord
+ 1175  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1176  ./chord
+ 1177  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1178  ./chord
+ 1179  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1180  ./chord
+ 1181  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1182  ./chord
+ 1183  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1184  ./chord
+ 1185  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1186  ./chord
+ 1187  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1188  ./chord
+ 1189  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1190  ./chord
+ 1191  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1192  ./chord
+ 1193  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1194  ./chord
+ 1195  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1196  ./chord
+ 1197  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1198  ./chord
+ 1199  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1200  ./chord
+ 1201  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1202  ./chord
+ 1203  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1204  ./chord
+ 1205  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1206  ./chord
+ 1207  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1208  ./chord
+ 1209  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1210  ./chord
+ 1211  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1212  ./chord
+ 1213  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1214  ./chord
+ 1215  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1216  ./chord
+ 1217  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1218  ./chord
+ 1219  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1220  ./chord
+ 1221  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1222  ./chord
+ 1223  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1224  ./chord
+ 1225  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1226  ./chord
+ 1227  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1228  ./chord
+ 1229  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1230  ./chord
+ 1231  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1232  ./chord
+ 1233  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1234  ./chord
+ 1235  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1236  ./chord
+ 1237  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1238  ./chord
+ 1239  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1240  ./chord
+ 1241  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1242  ./chord
+ 1243  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1244  ./chord
+ 1245  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1246  ./chord
+ 1247  cd ..
+ 1248  cd Hash-Map
+ 1249  ls
+ 1250  git add .
+ 1251  git commit -m 'Chord successfully builds'
+ 1252  git push origin master
+ 1253  cd Desktop/Workspace/Peer\ 2\ Peer/Chord/
+ 1254  ls
+ 1255  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1256  ./chord
+ 1257  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1258  hsitory
+ 1259  history
+ 1260  cd Desktop/Workspace/Peer\ 2\ Peer/Chord/
+ 1261  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1262  ./chord
+ 1263  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1264  ./chord
+ 1265  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1266  ./chord
+ 1267  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1268  ./chord
+ 1269  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1270  ./chord
+ 1271  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1272  ./chord
+ 1273  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1274  ./chord
+ 1275  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1276  ./chord
+ 1277  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1278  ./chord
+ 1279  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1280  ./chord
+ 1281  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1282  ./chord
+ 1283  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1284  ./chord
+ 1285  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1286  ./chord
+ 1287  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1288  ./chord
+ 1289  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1290  ./chord
+ 1291  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1292  ./chord
+ 1293  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1294  ./chord
+ 1295  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1296  ./chord
+ 1297  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1298  ./chord
+ 1299  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1300  ./chord
+ 1301  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1302  ./chord
+ 1303  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1304  ./chord
+ 1305  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1306  ./chord
+ 1307  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1308  ./chord
+ 1309  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1310  ./chord
+ 1311  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1312  ./chord
+ 1313  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1314  ./chord
+ 1315  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1316  ./chord
+ 1317  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1318  ./chord
+ 1319  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1320  ./chord
+ 1321  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1322  ./chord
+ 1323  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1324  ./chord
+ 1325  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1326  ./chord
+ 1327  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1328  ./chord
+ 1329  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1330  ./chord
+ 1331  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1332  ./chord
+ 1333  cd ..
+ 1334  cd Hash-Map
+ 1335  git add .
+ 1336  git commit -m origin master
+ 1337  git commit -m 'Chord Routing Works'
+ 1338  git push origin master
+ 1339  cd ..
+ 1340  cd Chord/
+ 1341  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1342  ./chord
+ 1343  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1344  ./chord
+ 1345  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1346  ./chord
+ 1347  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1348  ./chord
+ 1349  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1350  ./chord
+ 1351  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1352  ./chord
+ 1353  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1354  ./chord
+ 1355  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1356  ./chord
+ 1357  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1358  ./chord
+ 1359  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1360  ./chord
+ 1361  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1362  ./chord
+ 1363  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1364  ./chord
+ 1365  cd ..
+ 1366  cd Hash-Map
+ 1367  ls
+ 1368  git add .
+ 1369  git commit -m 'Comments added'
+ 1370  git push origin master
+ 1371  cd ../..
+ 1372  cd AI
+ 1373  cd CaptureFlag/
+ 1374  ls
+ 1375  git status
+ 1376  git stash
+ 1377  git checkout -m MTCS-Implementation
+ 1378  git checkout -b MTCS-Implementation
+ 1379  history | grep packman
+ 1380  history | grep pacman
+ 1381  history
+ 1382  python3 capture.py -r myTeam -b baselineTeam
+ 1383  python3 capture.py -r baselineTem -b baselineTeam
+ 1384  python3 capture.py -r baselineTeam -b baselineTeam
+ 1385  python3 capture.py -r myTeam -b baselineTeam
+ 1386  git add .
+ 1387  git commit -m 'MCST integrated with game'
+ 1388  git push origin MTCS-Implementation \
+ 1389  git push origin MTCS-Implementation
+ 1390  history | grep sshfs
+ 1391  sshfs -o allow_other oedipus@192.168.3.11:/ /mnt/raspberryPi/
+ 1392  history | grep g++
+ 1393  history | grep ssh
+ 1394  ssh oedipus@192.168.3.11 -Y
+ 1395  history | grep ssh
+ 1396  ssh oedipus@192.168.3.11 -L 9901:localhost:5901
+ 1397  ssh key-gen
+ 1398  ssh-keygen
+ 1399  pgrep
+ 1400  pgrep firefox 
+ 1401  top
+ 1402  pgrep 7021
+ 1403  ssh oedipus@192.168.3.11 -L 9901:localhost:5901
+ 1404  cd Desktop/Workspace/Peer\ 2\ Peer/Chord/
+ 1405  history | grep g++
+ 1406  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1407  ./chord 
+ 1408  cd ..
+ 1409  cd Hash-Map
+ 1410  git add .
+ 1411  git commit -m 'updated compiled program'
+ 1412  git push origin master
+ 1413  cd ./..
+ 1414  cd ..
+ 1415  cd AI
+ 1416  cd CaptureFlag/
+ 1417  history
+ 1418  python3 capture.py -r myTeam -b baselineTeam
+ 1419  git add .
+ 1420  git commit -m 'Started building search tree based on multi-agent search'
+ 1421  git status
+ 1422  git push origin MTCS-Implementation 
+ 1423  cd Desktop/Workspace/waitlist/
+ 1424  ls
+ 1425  python3 database_setup.py 
+ 1426  node test.js
+ 1427  python3 database_setup.py 
+ 1428  node test.js
+ 1429  python3 database_setup.py 
+ 1430  node test.js
+ 1431  python3 database_setup.py 
+ 1432  node test.js
+ 1433  python3 database_setup.py 
+ 1434  node test.js
+ 1435  python3 database_setup.py 
+ 1436  node test.js
+ 1437  python3 database_setup.py 
+ 1438  node test.js
+ 1439  python3 database_setup.py 
+ 1440  node test.js
+ 1441  python3 database_setup.py 
+ 1442  node test.js
+ 1443  python3 database_setup.py 
+ 1444  node test.js
+ 1445  python3 database_setup.py 
+ 1446  node test.js
+ 1447  python3 database_setup.py 
+ 1448  node test.js
+ 1449  node async.js 
+ 1450  python3 database_setup.py 
+ 1451  node test.js
+ 1452  python3 database_setup.py 
+ 1453  node test.js
+ 1454  python3 database_setup.py 
+ 1455  node test.js
+ 1456  python3 database_setup.py 
+ 1457  node test.js
+ 1458  python3 database_setup.py 
+ 1459  node test.js
+ 1460  python3 database_setup.py 
+ 1461  node test.js
+ 1462  python3 database_setup.py 
+ 1463  node test.js
+ 1464  python3 database_setup.py 
+ 1465  node test.js
+ 1466  python3 database_setup.py 
+ 1467  node test.js
+ 1468  node async.js 
+ 1469  ls
+ 1470  gedit test.txt &
+ 1471  node async.js 
+ 1472  node test.js
+ 1473  node async.js 
+ 1474  node test.js
+ 1475  git add ,'
+ 1476  git add .
+ 1477  git commit -m 'Callbacks work'
+ 1478  git push origin database 
+ 1479  cd ..
+ 1480  cd AI
+ 1481  cd CaptureFlag/
+ 1482  ls
+ 1483  history
+ 1484  python3 capture.py -r myTeam -b baselineTeam
+ 1485  git add .
+ 1486  python3 capture.py -r myTeam -b baselineTeam
+ 1487  git add .
+ 1488  git commit -m 'have working code but not good'
+ 1489  git status
+ 1490  git push origin MTCS-Implementation 
+ 1491  cd Desktop/Workspace/waitlist/
+ 1492  ls
+ 1493  python3 database_setup.py 
+ 1494  node test.js 
+ 1495  python3 database_setup.py 
+ 1496  node test.js 
+ 1497  python3 database_setup.py 
+ 1498  node test.js 
+ 1499  python3 database_setup.py 
+ 1500  node test.js 
+ 1501  python3 database_setup.py 
+ 1502  node test.js 
+ 1503  python3 database_setup.py 
+ 1504  node test.js 
+ 1505  cd Desktop/Workspace/waitlist/
+ 1506  node test.js 
+ 1507  cd Desktop/Workspace/waitlist/
+ 1508  node test.js 
+ 1509  git add .
+ 1510  git commit -m 'Beginning to build nursery search'
+ 1511  git push origin database 
+ 1512  node test.js 
+ 1513  git add .
+ 1514  git commit -m 'Left Join to include languages'
+ 1515  git push origin database 
+ 1516  cd ../Peer\ 2\ Peer/Chord/
+ 1517  ls
+ 1518  ./chord 
+ 1519  ls
+ 1520  history | grep g++
+ 1521  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1522  ./chord 
+ 1523  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1524  ./chord 
+ 1525  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1526  ./chord 
+ 1527  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1528  ./chord 
+ 1529  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1530  ./chord 
+ 1531  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1532  ./chord 
+ 1533  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1534  ./chord 
+ 1535  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1536  ./chord 
+ 1537  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1538  ./chord 
+ 1539  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1540  ./chord 
+ 1541  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1542  ./chord 
+ 1543  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1544  ./chord 
+ 1545  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1546  ./chord 
+ 1547  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1548  ./chord 
+ 1549  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1550  ./chord 
+ 1551  cd ..
+ 1552  cd Hash-Map
+ 1553  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1554  ./chord 
+ 1555  git add .
+ 1556  git commit -m 'fixed bug in search'
+ 1557  git push origin master 
+ 1558  cd ..
+ 1559  cd AI
+ 1560  cd CaptureFlag/
+ 1561  history | grep python
+ 1562  python3 capture.py -r myTeam -b baselineTeam
+ 1563  cd Desktop/Workspace/waitlist/
+ 1564  python3 database_setup.py 
+ 1565  node test.js 
+ 1566  python3 database_setup.py 
+ 1567  git add .
+ 1568  git commit -m 'Started on left joins'
+ 1569  git push origin database 
+ 1570  history
+ 1571  python3 capture.py -r myTeam -b baselineTeam
+ 1572  cd ..
+ 1573  cd AI/CaptureFlag/
+ 1574  python3 capture.py -r myTeam -b baselineTeam
+ 1575  cd ..
+ 1576  cd Peer\ 2\ Peer/
+ 1577  ls
+ 1578  cd Chord/
+ 1579  ls
+ 1580  cd ..
+ 1581  cd Hash-Map
+ 1582  ls
+ 1583  ls -l
+ 1584  git add .
+ 1585  git commit -m 'fixed bugs'
+ 1586  git push origin master 
+ 1587  git pull origin master
+ 1588  git commit -m 'fixed bugs'
+ 1589  git rm chord 
+ 1590  git commit -m 'fixed bugs'
+ 1591  git rm Chord_Node.cpp 
+ 1592  git commit -m 'fixed bugs'
+ 1593  git push origin master 
+ 1594  ls
+ 1595  history | grep g++
+ 1596  g++ -std=c++14 -Wall -Werror -O -o chord Chord_Node.cpp main.cpp 
+ 1597  ./chord 
+ 1598  git add .
+ 1599  git commit -m 'fixed conflicts'
+ 1600  git push origin master
+ 1601  history | grep ssh
+ 1602  ssh oedipus@192.168.3.11 -L 9901:localhost:5901
+ 1603  cd Desktop/Workspace/AI/CaptureFlag/
+ 1604  history ! capture
+ 1605  history ! grep capture
+ 1606  history | grep capture
+ 1607  python3 capture.py -r myTeam -b baselineTeam
+ 1608  history | grep capture
+ 1609  python3 capture.py -r myTeam -b baselineTeam
+ 1610  cd Desktop/Workspace/AI/CaptureFlag/
+ 1611  python3 capture.py -r myTeam -b baselineTeam
+ 1612  cd Desktop/Workspace/AI/CaptureFlag/
+ 1613  python3 capture.py -r myTeam -b baselineTeam
+ 1614  git add .
+ 1615  git commit -m 'Tried to change the evaluation'
+ 1616  git status
+ 1617  git push origin MTCS-Implementation 
+ 1618  vim interfaces
+ 1619  sudo vim interfaces
+ 1620  history | grep ssh
+ 1621  ssh oedipus@192.168.3.11 -L 9901:localhost:5901
+ 1622  history | grep nmap
+ 1623  nmap
+ 1624  history
+ 1625  nmap -sn 192.168.1.0/24
+ 1626  ip address
+ 1627  nmap -sn 192.168.1.0/24
+ 1628  nmap -sn 192.168.3.2/24
+ 1629  ssh oedipus@192.168.3.11 -L 9901:localhost:5901
+ 1630  nmap -sn 192.168.3.2/24
+ 1631  ssh oedipus@192.168.3.11 -L 9901:localhost:5901
+ 1632  nmap -sn 192.168.3.2/24
+ 1633  ssh oedipus@192.168.3.12 -L 9901:localhost:5901
+ 1634  nmap -sn 192.168.3.2/24
+ 1635  sudo rebookt
+ 1636  sudo reboot
+ 1637  nmap -sn 192.168.3.2/24
+ 1638  ssh oedipus@192.168.3.12 -L 9901:localhost:5901
+ 1639  nmap -sn 192.168.3.2/24
+ 1640  ssh oedipus@192.168.3.3 -L 9901:localhost:5901
+ 1641  ssh pi@192.168.3.3
+ 1642  history | grep sshfs
+ 1643  1172 sshfs -o allow_other oedipus@192.168.3.3:/ /mnt/raspberryPi
+ 1644  sshfs -o allow_other oedipus@192.168.3.3:/ /mnt/raspberryPi
+ 1645  sshfs -o allow_other pi@192.168.3.3:/ /mnt/raspberryPi
+ 1646  nmap -sn 192.168.3.2/24
+ 1647  sshfs -o allow_other pi@192.168.3.3:/ /mnt/raspberryPi
+ 1648  ssh pi@192.168.3.3
+ 1649  ssh retropie@192.168.3.3
+ 1650  sshfs -o allow_other retropie@192.168.3.3:/ /mnt/raspberryPi
+ 1651  ssh retropie@192.168.3.3
+ 1652  sshfs -o allow_other retropie@192.168.3.3:/ /mnt/raspberryPi
+ 1653  ssh-keygen -f "/home/archimedes/.ssh/known_hosts" -R pi@192.168.3.3
+ 1654  ssh retropie@192.168.3.3
+ 1655  ssh pi@192.168.3.3
+ 1656  sshfs -o allow_other pi@192.168.3.3:/ /mnt/raspberryPi
+ 1657  cd Desktop/Workspace/AI/CaptureFlag/
+ 1658  ls
+ 1659  history | grep python3
+ 1660  python3 capture.py -r myTeam -b baselineTeam
+ 1661  ls
+ 1662  cd Desktop/Workspace/AI/CaptureFlag/
+ 1663  python3 capture.py -r myTeam -b baselineTeam
+ 1664  git add ,
+ 1665  git add .
+ 1666  git commit -m 'cleaned up the code'
+ 1667  git status
+ 1668  git push origin MTCS-Implementation 
+ 1669  python3 capture.py -r myTeam -b baselineTeam
+ 1670  cd Desktop/Workspace/waitlist/
+ 1671  python3 database_setup.py 
+ 1672  git add .
+ 1673  git commit -m 'added role field for user'
+ 1674  git push origin database 
+ 1675  cd ..
+ 1676  cd Peer\ 2\ Peer/
+ 1677  mkdir Minicoid
+ 1678  rmdir Minicoid/
+ 1679  mkdir Minicoin
+ 1680  cd Minicoin/
+ 1681  git init
+ 1682  history | git
+ 1683  history | grep git
+ 1684  echo $HISTFILE
+ 1685  echo $HISTSIZE 
+ 1686  vi ~/.bash_profile 
+ 1687  echo export HISTTIMEFORMAT=\"%m/%d/%y %T \" >> ~/.bash_profile
+ 1688  echo $HISTSIZE 
+ 1689  cd Desktop/Workspace/waitlist/
+ 1690  git add .
+ 1691  git commit -m 'expanded email address space'
+ 1692  git push origin database 
+ 1693  cd ..
+ 1694  cd AI
+ 1695  cd CaptureFlag/
+ 1696  ls
+ 1697  history
+ 1698  python3 capture.py -r myTeam -b baselineTeam
+ 1699  git add .
+ 1700  git commit -m 'added code to recognise whether opponent dangerous'
+ 1701  git status
+ 1702  git push origin MTCS-Implementation 
+ 1703  vi ~/.bash_profile 
+ 1704  . .bash_profile 
+ 1705  echo $HISTSIZE 
+ 1706  history
+ 1707  git remote add origin https://github.com/s3664099/MiniCoin.git
+ 1708  cd Desktop/Workspace/Peer\ 2\ Peer/Minicoin/
+ 1709  git remote add origin https://github.com/s3664099/MiniCoin.git
+ 1710  history
+ 1711  ls
+ 1712  python3 find_leading_0.py 
+ 1713  git add .
+ 1714  git commit -m 'initial hash function'
+ 1715  git push origin master
+ 1716  python3 find_leading_0.py 
+ 1717  cd ~/
+ 1718  ls
+ 1719  cd dwhelper/
+ 1720  youtube-dl https://www.9now.com.au/underbelly-files-chopper/2018/episode-1
+ 1721  youtube-dl https://r4---sn-ntq7yney.c.2mdn.net/videoplayback/id/546eba5e755382e2/itag/347/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3727296878/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/7597366519A5E1A6A250FB9D18DE9F0F9B87E3D5.1BC888E7DBFDEF50430CA6095873B30A6A484617/key/cms1/cms_redirect/yes/mh/XD/mip/118.211.103.24/mm/32/mn/sn-ntq7yney/ms/su/mt/1600253552/mv/m/mvi/4/pl/20?cpn=h0WJsGKVTEu7tUw1&file=file.mp4
+ 1722  ls
+ 1723  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/73c94653-c7f5-4c13-9795-abf26233bfc3/d3b4dd7e-9ad8-49f9-95cb-cc9d7986da7f/10s/rendition.m3u8?fastly_token=NWY2MmU5OGVfODJkZjAxZTMxNzk1NzljZDA1ZWQzY2NmMjM5ODJkMWE2NWQyOTA3OTk0OTBkOGEyNGRiZDhmNGUyOGRmNjlmNA%3D%3D
+ 1724  mkdir audio
+ 1725  cd audio/
+ 1726  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/73c94653-c7f5-4c13-9795-abf26233bfc3/ecfd4ca2-e625-42de-b995-3216cced66a4/10s/rendition.m3u8?fastly_token=NWY2MmU5OGVfZDQ3YmZhZjdiNDQ3NmExZDgzY2NiM2MwYTJkMTMyNWMwMTgxYmE2MTNjZDliZTYzYjI4ZWFlNDNiZjNjZTQzMA%3D%3D
+ 1727  cd ..
+ 1728  mv rendition-rendition.mp4 file-video.mp4
+ 1729  ls
+ 1730  mv rendition-rendition.m3u8 file-video.mp4
+ 1731  mv audio/rendition-rendition.mp4 file-audio.mp4
+ 1732  mv audio/rendition-rendition.m3u8 file-audio.mp4
+ 1733  mencoder -ovc xvid -xvidencopts fixed_quant=4 -oac mp3lame -lameopts cbr:mode=2:br=96 -af resample=44100 -srate 44100 -ofps 20 -audiofile file-audio.mp4 file-video.mp4 -o file.avi
+ 1734  sudo apt-get install mencoder
+ 1735  mencoder -ovc xvid -xvidencopts fixed_quant=4 -oac mp3lame -lameopts cbr:mode=2:br=96 -af resample=44100 -srate 44100 -ofps 20 -audiofile file-audio.mp4 file-video.mp4 -o file.avi
+ 1736  ls
+ 1737  history
+ 1738  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/e3e207b8-b1dc-41cd-91e7-085ddf8d6353/87943a10-fa9e-4ad5-836c-177aed288f75/10s/rendition.m3u8?fastly_token=NWY2MzY1MGNfODI0ZjJiNTYzYTYxYTllMTA5OWJjMmVlMDBlMzk5NzBjODZkODM3MjNmNmJhNDRhODZjMTE2N2Y5NDRkYjRlNA%3D%3D
+ 1739  cd audio/
+ 1740  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/e3e207b8-b1dc-41cd-91e7-085ddf8d6353/0bb0e6ba-0a63-4346-8141-3de0d07f866e/10s/rendition.m3u8?fastly_token=NWY2MzY1MGNfMGE5ZTI2OTZhYjU0OTEzZTQwMGM4MDNhMzAxMzZlNTRhYzU5OTFkNzc0MjQ0OWM0MzRhMDM0ZmUyZjg3NmEwOA%3D%3D
+ 1741  cd ..
+ 1742  history
+ 1743  mv rendition-rendition.m3u8 file-video.mp4
+ 1744  mv audio/rendition-rendition.mp4 file-audio.mp4
+ 1745  cd audio/
+ 1746  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/e3e207b8-b1dc-41cd-91e7-085ddf8d6353/0bb0e6ba-0a63-4346-8141-3de0d07f866e/10s/rendition.m3u8?fastly_token=NWY2MzY1MGNfMGE5ZTI2OTZhYjU0OTEzZTQwMGM4MDNhMzAxMzZlNTRhYzU5OTFkNzc0MjQ0OWM0MzRhMDM0ZmUyZjg3NmEwOA%3D%3D
+ 1747  ls
+ 1748  cd ..
+ 1749  ls
+ 1750  mv audio/rendition-rendition.mp4 file-audio.mp4
+ 1751  cd audio/
+ 1752  ls
+ 1753  cd ..
+ 1754  mv audio/rendition-rendition.m3u8 file-audio.mp4
+ 1755  history
+ 1756  mencoder -ovc xvid -xvidencopts fixed_quant=4 -oac mp3lame -lameopts cbr:mode=2:br=96 -af resample=44100 -srate 44100 -ofps 20 -audiofile file-audio.mp4 file-video.mp4 -o file.avi
+ 1757  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/030846fe-19b4-462f-9f46-c68b12e7c2ea/f9ba079d-0d8a-4e2c-87e7-88a955755ab5/10s/rendition.m3u8?fastly_token=NWY2MmZlM2JfZmQ5YjFiM2I5YTY3N2NlNjQ2MzYyYWUwNmU0MTA1NWQxNDM4NTdiMzk1ODc3N2VlNjJhYTI2ZjU1ZTk3YWY4ZQ%3D%3D
+ 1758  cd audio/
+ 1759  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/030846fe-19b4-462f-9f46-c68b12e7c2ea/98810461-edea-4691-9326-9f875a9805d5/10s/rendition.m3u8?fastly_token=NWY2MmZlM2JfNjZiNDdhODhjOWYwMmQ3NTMzODlhMGFkZGY1N2I2NTlhMDI2MjZmYzA4MmIzMjQyMjUyNGY0ODBjNjRjYTIxMA%3D%3D
+ 1760  cd ..
+ 1761  mv rendition-rendition.m3u8 file-video.mp4
+ 1762  mv audio/rendition-rendition.m3u8 file-audio.mp4
+ 1763  mencoder -ovc xvid -xvidencopts fixed_quant=4 -oac mp3lame -lameopts cbr:mode=2:br=96 -af resample=44100 -srate 44100 -ofps 20 -audiofile file-audio.mp4 file-video.mp4 -o file.avi
+ 1764  ls
+ 1765  cd Desktop/Workspace/
+ 1766  git clone AI/CaptureFlag/ newCapture
+ 1767  ls
+ 1768  rm dir newCapture/
+ 1769  rmdir newCapture/
+ 1770  rmdir -r newCapture/
+ 1771  rm -r newCapture/
+ 1772  rm -r -y newCapture/
+ 1773  cd AI
+ 1774  cd CaptureFlag/
+ 1775  git log
+ 1776  cd ../..
+ 1777  ls
+ 1778  cd Unix\ Admin/
+ 1779  ls
+ 1780  mkdir BashPractic
+ 1781  cd BashPractic/
+ 1782  vim myScriptFile
+ 1783  ls
+ 1784  ls -l
+ 1785  chmod +x myScriptFile 
+ 1786  ls -l
+ 1787  myScriptFile
+ 1788  ./myScriptFile 
+ 1789  bash ./myScriptFile 
+ 1790  cat myScriptFile 
+ 1791  vim myScriptFile
+ 1792  cat myScriptFile 
+ 1793  ./myScriptFile 
+ 1794  vim myScriptFile
+ 1795  cat myScriptFile 
+ 1796  ./myScriptFile 
+ 1797  vim copyScript
+ 1798  ls
+ 1799  chmod +x copyScript 
+ 1800  ./copyScript myScriptFile PooPoo
+ 1801  cat copyScript 
+ 1802  vim copyScript
+ 1803  ./copyScript myScriptFile PooPoo
+ 1804  ls
+ 1805  cat copyScript 
+ 1806  vim copyScript
+ 1807  ./copyScript myScriptFile PooPoo
+ 1808  vim copyScript
+ 1809  ./copyScript myScriptFile PooPoo
+ 1810  vim copyScript
+ 1811  ./copyScript myScriptFile PooPoo
+ 1812  vim copyScript
+ 1813  ./copyScript myScriptFile PooPoo
+ 1814  vim copyScript
+ 1815  ./copyScript myScriptFile PooPoo
+ 1816  vim readinput
+ 1817  chmod +x readinput 
+ 1818  ./readinput 
+ 1819  vim specialVariables
+ 1820  chmod +x specialVariables 
+ 1821  ./specialVariables hello goodbye
+ 1822  vim conditional
+ 1823  touch source.txt
+ 1824  chmod conditional 
+ 1825  chmod +x conditional 
+ 1826  ls
+ 1827  ./conditional 
+ 1828  vim conditional
+ 1829  ./conditional 
+ 1830  ls
+ 1831  rm source.txt 
+ 1832  ls
+ 1833  ./conditional 
+ 1834  ls
+ 1835  vim condSample
+ 1836  chmod +x condSample 
+ 1837  ./condSample 
+ 1838  vim condSample
+ 1839  chmod +x condSample 
+ 1840  ./condSample 
+ 1841  ./condSample 100
+ 1842  vim condSample
+ 1843  ./condSample 
+ 1844  vim condSample
+ 1845  ./condSample 
+ 1846  vim condSample
+ 1847  ./condSample 
+ 1848  vim condSample
+ 1849  ./condSample 
+ 1850  vim condSample
+ 1851  ./condSample 
+ 1852  ./condSample 10
+ 1853  ./condSample 1000
+ 1854  vim changeDirectory
+ 1855  chmod +x changeDirectory 
+ 1856  ./changeDirectory Downloads
+ 1857  vim changeDirectory
+ 1858  ./changeDirectory Downloads
+ 1859  ./changeDirectory Desktop
+ 1860  ls -l
+ 1861  vim checkFile
+ 1862  ls
+ 1863  chmod +x checkFile 
+ 1864  ./checkFile changeDirectory 
+ 1865  chmod +x checkFile 
+ 1866  vim checkFile
+ 1867  ./checkFile changeDirectory 
+ 1868  ./checkFile destination.txt 
+ 1869  ./checkFile weewee
+ 1870  chmod +x checkFile 
+ 1871  vim checkFile
+ 1872  ./checkFile destination.txt 
+ 1873  ./checkFile weewee
+ 1874  ./checkFile changeDirectory 
+ 1875  python3
+ 1876  cd Desktop/Workspace/AI/CaptureFlag/
+ 1877  history | grep python3
+ 1878  python3 capture.py -r myTeam -b baselineTeam
+ 1879  python3 capture.py -r myTeam -b dummyTeam.py 
+ 1880  git add .
+ 1881  git commit -m 'changed code to have pacman return, and not crash on 0 food'
+ 1882  git status
+ 1883  history | grep push
+ 1884  git push origin MTCS-Implementation 
+ 1885  cd dwhelper/
+ 1886  ls
+ 1887  ls slid*.*
+ 1888  ls Slid*.*
+ 1889  youtube-dl https://crcdn09.adnxs.com/creative/p/541/2020/8/21/20521976/3ca24063-f06b-489a-a138-a8a19ed2891c_768_432_1100k.mp4
+ 1890  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/025cdf60-a178-4b6d-8461-60ffbd9869fb/4d3d47bf-38d7-4b52-819c-99b4d44c8f5b/10s/rendition.m3u8?fastly_token=NWY2NDEwN2NfYjA4ODliZWE0NGY5YzU3MGVkN2JmNWViMjIwZWNjYmQxM2I2MjE2Zjc4MzhlMGViODA4ZWMwMTQ5Yjg1NGFkZg%3D%3D
+ 1891  cd audio/
+ 1892  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/025cdf60-a178-4b6d-8461-60ffbd9869fb/30a9197b-f024-46c8-8256-c97fbb51edfc/10s/rendition.m3u8?fastly_token=NWY2NDEwN2NfZGRiMGFmYjQyODY3YzIwOTdhZTY2ZWNjZjg2NDlmYmFiNWE0NjE4MTYwNzA0MDE3MzU1MGQ5NjQ1Nzg1MDliNA%3D%3D
+ 1893  cd ..
+ 1894  history
+ 1895  mv rendition-rendition.m3u8 file-video.mp4
+ 1896  mv audio/rendition-rendition.m3u8 file-audio.mp4
+ 1897  mencoder -ovc xvid -xvidencopts fixed_quant=4 -oac mp3lame -lameopts cbr:mode=2:br=96 -af resample=44100 -srate 44100 -ofps 20 -audiofile file-audio.mp4 file-video.mp4 -o file.avi
+ 1898  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/232c22c5-e7a7-4c3b-9994-6d602f6cccf8/55e8689d-4a92-4a82-b323-1e15677a0039/10s/rendition.m3u8?fastly_token=NWY2NDExZGZfZWI4ZTdmOGQ2Yjk5MzliMTMxODUwYzZiMTU4MjFmNmVmNDI4N2U2YTc0YjEzNTZkYTcwM2VhNDZiMzY0NDEwMg%3D%3D
+ 1899  cd audio/
+ 1900  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/232c22c5-e7a7-4c3b-9994-6d602f6cccf8/99dd5871-8558-48af-9dc1-6fb7e025fdf0/10s/rendition.m3u8?fastly_token=NWY2NDExZGZfODdlYmVhOWFiMGUwM2Y1MGU0NGQzNmEzYjI1MmU3NDlmNjIyYTU1NDhiNGI1NjdkMTA1MTUyMTNkOTUyYjdkNg%3D%3D
+ 1901  cd ..
+ 1902  mv rendition-rendition.m3u8 file-video.mp4
+ 1903  mv audio/rendition-rendition.m3u8 file-audio.mp4
+ 1904  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/232c22c5-e7a7-4c3b-9994-6d602f6cccf8/99dd5871-8558-48af-9dc1-6fb7e025fdf0/10s/rendition.m3u8?fastly_token=NWY2NDExZGZfODdlYmVhOWFiMGUwM2Y1MGU0NGQzNmEzYjI1MmU3NDlmNjIyYTU1NDhiNGI1NjdkMTA1MTUyMTNkOTUyYjdkNg%3D%3D
+ 1905  mencoder -ovc xvid -xvidencopts fixed_quant=4 -oac mp3lame -lameopts cbr:mode=2:br=96 -af resample=44100 -srate 44100 -ofps 20 -audiofile file-audio.mp4 file-video.mp4 -o file.avi
+ 1906  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/f8de4e46-5178-45dc-87c0-d718ba403978/f6df4146-5642-4c44-bf77-179c8ffc03a2/10s/rendition.m3u8?fastly_token=NWY2NDFkZmVfNjE5YzA2ZjdkMWI4YWE3Y2Q0MTg3MGJlZmNkNzU1ZTdjNjJkYzhmODQ5NmE2ZWFkMTZmZjIxNmRkZmU3NDA5ZA%3D%3D
+ 1907  cd audio/
+ 1908  youtube-dl https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/f8de4e46-5178-45dc-87c0-d718ba403978/685d80d5-4f9a-405e-9c99-a22fd00d8ed3/10s/rendition.m3u8?fastly_token=NWY2NDFkZmVfMDg2ZjM2MjkwYjZkNjViNjU2MDA0NzNjZTQ0ZjFhZjY2NTIyN2ExNzlhNzFjZmJjZTg3OTA0YmQwNjQ2NTk2OA%3D%3D
+ 1909  cd ..
+ 1910  mv rendition-rendition.m3u8 file-video.mp4
+ 1911  mv audio/rendition-rendition.m3u8 file-audio.mp4
+ 1912  mencoder -ovc xvid -xvidencopts fixed_quant=4 -oac mp3lame -lameopts cbr:mode=2:br=96 -af resample=44100 -srate 44100 -ofps 20 -audiofile file-audio.mp4 file-video.mp4 -o file.avi
+ 1913  history
+ 1914  ls -l download 
+ 1915  chmod +x download 
+ 1916  ls -l download 
+ 1917  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/f8023bbb-defa-4c2a-9c59-0804bd2e93b0/f87c9a6a-04f6-4883-a11f-7491be935808/10s/rendition.m3u8?fastly_token=NWY2NDJjZTJfNmYwZTVmZGQ0MGFiYjc0NWExZTU3YTA2Y2RmZDdhOTQ4ZWJlMmFmOTJhZWEwOGFjMTc5ODY4MGE4MGE5MjU2Mg%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/f8023bbb-defa-4c2a-9c59-0804bd2e93b0/3f146e01-4c11-416a-9664-159525e786cf/10s/rendition.m3u8?fastly_token=NWY2NDJjZTJfYzgwMGQ4NTQ1OTVmMjM1MmRiZDBjODZkNThjNjk0ZDkwY2ZlODJjMzEwYjlmZjViYTY0NDExZjRjM2E2ZjdhNQ%3D%3D sliders-0105
+ 1918  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/f8023bbb-defa-4c2a-9c59-0804bd2e93b0/3f146e01-4c11-416a-9664-159525e786cf/10s/rendition.m3u8?fastly_token=NWY2NDJjZTJfYzgwMGQ4NTQ1OTVmMjM1MmRiZDBjODZkNThjNjk0ZDkwY2ZlODJjMzEwYjlmZjViYTY0NDExZjRjM2E2ZjdhNQ%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/a1effb72-cc9b-4c43-bf63-20da97f2060f/ff8fc4a6-edbe-46eb-80a1-a9366134c8ad/10s/rendition.m3u8?fastly_token=NWY2NDM0OWJfMTMyNDdlOWNlMTVlZjNkOGM3MGEwMDVjZGZiMmMzZmUxNWI3OTg1ODc3ZDlhOGY1OTFlN2UzNDVmYzk4NjE2NQ%3D%3D Sliders-0106
+ 1919  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/a1effb72-cc9b-4c43-bf63-20da97f2060f/3c21753d-8421-4957-a0ab-ed6f38fbeeed/10s/rendition.m3u8?fastly_token=NWY2NDM0OWJfYWNmNGIyZWQ5MjJhM2I3NGY4MzE3MDkxM2FiZmQxOTYxMzdkMjk1YjE0OTI5OTU3YTExNzU0M2FjZmFlMzUwMg%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/a1effb72-cc9b-4c43-bf63-20da97f2060f/ff8fc4a6-edbe-46eb-80a1-a9366134c8ad/10s/rendition.m3u8?fastly_token=NWY2NDM0OWJfMTMyNDdlOWNlMTVlZjNkOGM3MGEwMDVjZGZiMmMzZmUxNWI3OTg1ODc3ZDlhOGY1OTFlN2UzNDVmYzk4NjE2NQ%3D%3D sliders-0106
+ 1920  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/598b6e0c-1c5e-4693-ab35-3506fa7d1453/60bd98ef-2639-4b59-b1f3-e02346e226ef/10s/rendition.m3u8?fastly_token=NWY2NDNiNDVfYjc3MjE3MDIyYzIxODM3ODJjYmYyMmYxNDdkOTE5NDY3OTFkOTNjZmFjM2YwZDhmYTRiMDIxNGJjNjE2MDRhYQ%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/598b6e0c-1c5e-4693-ab35-3506fa7d1453/4a5e76a6-20ba-47e7-b501-0ba5dcf66cef/10s/rendition.m3u8?fastly_token=NWY2NDNiNDVfZmM4ZThmOTQ2Njg5ZWU2MGNjODc4YzZjNWM1NjZhZTFjYWVkYzcxZWNhYTIxYTEyZWI3ZGJjNmIzOGRkOTg4Ng%3D%3D sliders-0107
+ 1921  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/4529633a-3ec7-4199-b264-eed11fd32dcf/b18010a7-9ec6-4a1e-92a2-c31890cd8564/10s/rendition.m3u8?fastly_token=NWY2NDQzYjRfMzM5NjBiYTQ1ZWE1NmQ0NGY1MjU1OTJkY2Q0NjdiYmQ1ZTJlNzc3MDc3OGRjMDYyYzY3NTQ3YTBmZDQyNWE1Nw%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/4529633a-3ec7-4199-b264-eed11fd32dcf/76c596e1-fe86-4ee3-88a1-533080e671b5/10s/rendition.m3u8?fastly_token=NWY2NDQzYjRfNDI4MDlhZDVkNGY1MGI3NGFlMzNlNWI2NTc1NzY3MjYwN2ZjOWQxZjkxOTQ2OGJjMjE0ZDVlYjc4YWNhMDcxYQ%3D%3D sliders-0108
+ 1922  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/6be6d0e8-d02e-4312-b212-faa04d962738/ec01503f-35ef-43df-aecd-86b5eb4ad63c/10s/rendition.m3u8?fastly_token=NWY2NDVjNTVfZmFhMTg4OTc1MDU1ZWEyYTMwMWQ1MThlMDgxMWJlYWFhODg4MDlmYWFlYWYyZjc2MWViMjQ4ODZmYzc3NmFlYQ%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/6be6d0e8-d02e-4312-b212-faa04d962738/51e26b2e-d3d6-4602-9ee0-9b73d96e8d40/10s/rendition.m3u8?fastly_token=NWY2NDVjNTVfMzFhMDRhYTcyNDg2NmE3Yjc5YTFjZGI2MDU1YjI4Mzg5MThhMjAzNWNkYWRhMTAxNGMyNzY5ZDliYjllY2EwYw%3D%3D sliders-0109
+ 1923  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/a79229cf-e359-455b-a810-98511c350df6/c420dcdb-7fb5-48ce-9d83-afe07b6f7eff/10s/rendition.m3u8?fastly_token=NWY2NDY0MjBfYzY4OTE4NjAwNmY1YjllYTNkNWQwOWI5OTdkZTRjODllNDFkMWQ1Yjk4NTA4ZWY1OWZkNmVlZjIxNmZmYTRmZQ%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/a79229cf-e359-455b-a810-98511c350df6/a535180e-1b71-4afd-959c-1df324bb5fe5/10s/rendition.m3u8?fastly_token=NWY2NDY0MjBfZjU5MTgxZTMzY2Y4OTA2ZDlhOTMwNjBmMjRlNDYwYWUzZDAxZWIwNWEzZThkZjVkY2RkMWMwOTUyMGU0M2I1Zg%3D%3D sliders-0110
+ 1924  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/991fdec1-0ce3-4a82-a1f3-c9ee8c44088e/dd3a7f0a-0678-4b53-8b6c-4ab1a70bb7d6/10s/rendition.m3u8?fastly_token=NWY2NDZhMDdfNDM1Zjc0YTk3MWQ5MzljOWU4Y2I1YWU1NTg1ZDM1ODhkNDBiZDBhOGZlNjVhMDNiNDFiODQ5Y2ZiZDIwZTU3OQ%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/991fdec1-0ce3-4a82-a1f3-c9ee8c44088e/d2557cd2-9879-4b1c-af58-d4b418f5f4d0/10s/rendition.m3u8?fastly_token=NWY2NDZhMDdfZTIyOTQwMDRmNzJmNDIzN2QxNDkyNjExODM5NzBkNzcyMDk5ZjdmMmVhNThjZDViM2I4MmFhNDZmZTQyYTA2OQ%3D%3D sliders-0201
+ 1925  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/4e040c2e-7c99-469e-817a-e9a94d89409a/aaef3697-e52c-4194-ac42-85b9f1d32eee/10s/rendition.m3u8?fastly_token=NWY2NDdkMDFfYzNhOTdmODk1MzllZGZkZTE1ZTk3YjJmYmZkY2JmNGI0NzdlYjA3ZGY4OTc3NzQ1NTk2NTMzYmIwODk4Y2UxMw%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/4e040c2e-7c99-469e-817a-e9a94d89409a/b9acb475-e02a-42a7-bb26-c70df91f8aa4/10s/rendition.m3u8?fastly_token=NWY2NDdkMDFfZjdhYjU1OTk4NzRmZmJmZDFiMTg2Yjk3MjFiYmM1ODhkYjNhNTMzMmI0OTNkYTYwYzRmMWM0ZjcyODkyZTMyNA%3D%3D sliders-0202
+ 1926  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/6eec00e2-12b2-4ab6-b32f-911d82bfea4c/88a604f4-a246-479f-ac04-b748d2bd79cb/10s/rendition.m3u8?fastly_token=NWY2NDgzYjBfMzUxNTc3NTFmNjdiMmE5NDlkYzVmNTFiZTk4OGRlMGMyNjk3ODBkNDIwMTk0OTM0N2RkOGFjMjdlYzAyNDYxMA%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/6eec00e2-12b2-4ab6-b32f-911d82bfea4c/313907b3-a840-448c-9c22-1b19b46f6417/10s/rendition.m3u8?fastly_token=NWY2NDgzYjBfZDMzN2IyZjQxOThmMDA1MzA1NzVlMWI0YWY1ZjkzOTc5NzA3OTc3ZTIwMDYwNzZkMjk1NWRlMmI2ZTg1MmRlMg%3D%3D sliders-0203
+ 1927  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/667ba186-e5cf-4f40-94df-901bf1837d1d/df3335fd-f241-4ada-aaa2-242a6703ad2e/10s/rendition.m3u8?fastly_token=NWY2NDA4M2ZfNTliMDU3M2MwN2NjMWNmYmFmN2NkZGIyY2NkNDE3Yjk4MTY2MjE1YjA2NTA3N2ZlMGIyNzJmMzBhM2I1YmVmYw%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/667ba186-e5cf-4f40-94df-901bf1837d1d/38292f73-4685-47b9-bd30-260005e6210a/10s/rendition.m3u8?fastly_token=NWY2NDA4M2ZfMDYzYzIzMDY0YzM2Zjg3MjI2MWU0NDMwNmY5OTBkMmRjYTEwNDUzNmE1ODJmY2Q4ODllZDc5NWUzYTQ4MzNjZQ%3D%3D sliders-0204
+ 1928  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/8caf7ca7-be1a-4721-8462-ac8185671783/6f90afad-9cfe-4140-ae28-0d3755b1e7ef/10s/rendition.m3u8?fastly_token=NWY2NDhmNjNfZDVmYzgyYThkNjJhNTFkODczZjc2MWZjMDVkMzBlNDE2YTdhZWEwYjFiNDg3ZGJjMzFhN2M3MDBmMjMxNzNiZg%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/8caf7ca7-be1a-4721-8462-ac8185671783/b0685704-d202-4501-8af6-a23489b7f2d1/10s/rendition.m3u8?fastly_token=NWY2NDhmNjNfMDA4NzRjZWNlODQ3N2FmNTkwMTQ5NWVhOTAyNzQ3N2NjMjc3ODBiMzEzYjM5NWZhZjVmNzYyY2U2NWM2ZTQ2Yg%3D%3D sliders-0205
+ 1929  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/6d0ea227-2883-473e-b0c5-f2613329e35c/e67e6049-13dd-4203-96ff-e7846f49f6c6/10s/rendition.m3u8?fastly_token=NWY2NDk4MzFfNTg5ZWZkNmM3YjlhMjFmYmMzMmFhYmE1ODhjODJmNTFlMWFiODZhMmI0MGE0M2QwMWFjMGJlOTFlYjM2ODY3YQ%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/6d0ea227-2883-473e-b0c5-f2613329e35c/dca763a4-7b75-42a8-9025-766dc2f1f8bc/10s/rendition.m3u8?fastly_token=NWY2NDk4MzFfZGIzY2U5OGU3MTllNjZiYjc1NzA3MWEwZjJiNGVmYjhhMjJhZjkyMmYxNTJkMzQ0MjBhYTNjZjQwYmYwMzAxNw%3D%3D sliders-0206
+ 1930  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/91bf32bf-1c19-4cc3-be74-deef2c7956b4/549f3e1c-3c86-4b79-a54a-4b214bd8bd2c/10s/rendition.m3u8?fastly_token=NWY2NGExYjBfYzU0ZGQ2ZmIxNWQ0NzZiMjU3M2JhM2RkZDQ2YzhjZDQ2OTliMzljN2E4NDhhYWYwNWJkZjBkNjZjYTNhMTFjZg%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/91bf32bf-1c19-4cc3-be74-deef2c7956b4/efde1b8e-d066-40cc-9749-40484583d1ec/10s/rendition.m3u8?fastly_token=NWY2NGExYjBfMDQzNmVlYjZjZmNmZjhkMmM2N2U2NDQwNWMwYzg2Yjc4ZWIyYTBjZGMwNTMzNmZlMzYzYTI4ZWNjYWUyNjZkMQ%3D%3D sliders-0207
+ 1931  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/3c52b82a-3eaa-4534-8a96-9e9e9782d623/97a2f222-eae8-4965-9da1-632d4df45996/10s/rendition.m3u8?fastly_token=NWY2NDdjZDBfYWU3ZGQxMjNlMzhlZmMzN2Q1MGZkNzdhODQ3OTlmNzMwODE0NGUwZjBkZGU4MGU4MjhhZWM1YmMwOTQ5NGQxMA%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/3c52b82a-3eaa-4534-8a96-9e9e9782d623/54952bfb-3a4f-4092-aab1-8dda53b10478/10s/rendition.m3u8?fastly_token=NWY2NDdjZDBfMWU2NGFlYjQ5ZTVlYjU1MGRjNmNiMmJmNTY4NTI0NjAyNGJkYTEyNzEyYzA1YmMxOWMwZjkyMGMyZmQ5NDQ0OQ%3D%3D sliders-0208
+ 1932  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/0b49f76a-8ce5-4a1a-9cb8-95a0c4471e68/f77958d7-13ed-4c3f-89e0-42bf3acb500d/10s/rendition.m3u8?fastly_token=NWY2NDkzOTRfYjhiNTI3ZWVjNjhlZGUyMDhlM2U3NWFhNzA0ZDgxMjEwNTY5YTgzZTIzMGIyNWQ5OTlmN2I0MTI5ZmJjMzRjYQ%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/0b49f76a-8ce5-4a1a-9cb8-95a0c4471e68/a12af7f6-d3b2-40b3-bc2b-e56cbdc6dfa1/10s/rendition.m3u8?fastly_token=NWY2NDkzOTRfN2QyNDEyMDk2MmYyZjNlYzBlMjIzZmJhOTk0M2ZiNjViZDY0NzkxZGI0MThiYzczM2M4YjVhZjc3ZjkxYTg3YQ%3D%3D sliders-0209
+ 1933  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/5316deed-7e09-402c-acae-f750900da217/da156b3d-8b65-47a3-84a7-16422c542fde/10s/rendition.m3u8?fastly_token=NWY2NDlkNTZfZjU1Nzc3MWU4M2Q0NzMxZmM5MTNjOTQ4ZWRlZTc2YzIxMzFjNjMwYWVkZjkzNDc0NzUzNmI0YjRhYWNiOTc3MA%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/5316deed-7e09-402c-acae-f750900da217/b6520149-d3a9-455e-8b8f-cec0176fc70f/10s/rendition.m3u8?fastly_token=NWY2NDlkNTZfOWNhODBkYmZmYWEyZTQ2ODhkODQxYTQyNWQzOTk4MDgwZjk3ZWI4NjVhZmU5MDgyNDRiYjU4ZjcwYWVlMjNjNg%3D%3D sliders-0210
+ 1934  cd dwhelper/
+ 1935  history
+ 1936  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/0851fab2-c712-4f89-a86e-dc3bd1ae8037/001b4585-fb73-4503-8430-9618221bbac0/10s/rendition.m3u8?fastly_token=NWY2NTY5MGFfMDc3MzE1ZjNhYTVjM2QxYmQ5MTZiYjcwZTUwNWU5OTMzOTg5YmFkZjFhMDBlZTQwOGRkMWE3MzU4YzJlODVkZA%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/0851fab2-c712-4f89-a86e-dc3bd1ae8037/b7f3b15f-50fc-4ad3-aff2-27a0386f8892/10s/rendition.m3u8?fastly_token=NWY2NTY5MGFfZjBmYmU3N2Q2OTk0ZDhjMzg5OTBjNjY4ZjZhZDA4YjczZTEzYmI1ZDFkNTFjNjc5MzAzYTFmYmUwYzc2ODY2Yg%3D%3D sliders-0211
+ 1937  ./download https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/2b1aac3e-1c35-4bb9-b392-fe2026788473/c4e46782-862a-486b-b3de-3f9eeffc27a5/10s/rendition.m3u8?fastly_token=NWY2NTY5YjFfMTg0YTlhNjQ3ZWIyZGQyN2I0NmVkYTcwODM0NTQxY2Q1YjljYTJjMmFlNzFkNDZkZDhmNzUyMDE5NTQwM2RmMg%3D%3D https://manifest.prod.boltdns.net/manifest/v1/hls/v5/clear/4460760524001/2b1aac3e-1c35-4bb9-b392-fe2026788473/79ca7530-6ca5-476c-a34a-74ba2201f87b/10s/rendition.m3u8?fastly_token=NWY2NTY5YjFfNGU3N2MxYzM1MWY1NjExMDViYmQ1ZmFhMzE5YjI2NjAyMzk4YTJjYjc4NDE2NGMzM2EwYzc2YWViOGIzMGZhYQ%3D%3D sliders-0211
+ 1938  cd Desktop/Workspace/waitlist/
+ 1939  git pull origin userAuth
+ 1940  git status
+ 1941  cd briskly-server/
+ 1942  node test.js 
+ 1943  cd ..
+ 1944  cd DatabaseSetup/
+ 1945  python3 database_setup.py 
+ 1946  cd ..
+ 1947  cd briskly-server/
+ 1948  node test.js 
+ 1949  cd ..
+ 1950  cd DatabaseSetup/
+ 1951  python3 database_setup.py 
+ 1952  cd ..
+ 1953  cd briskly-server/
+ 1954  ls
+ 1955  node test.js 
+ 1956  cd ..
+ 1957  cd DatabaseSetup/
+ 1958  python3 database_setup.py 
+ 1959  cd DatabaseSetup/
+ 1960  python3 database_setup.py 
+ 1961  cd ..
+ 1962  cd briskly-server/
+ 1963  node test.js 
+ 1964  cd ..
+ 1965  cd DatabaseSetup/
+ 1966  python3 database_setup.py 
+ 1967  cd ..
+ 1968  cd briskly-
+ 1969  cd briskly-server/
+ 1970  ls
+ 1971  node test.js 
+ 1972  cd ..
+ 1973  cd DatabaseSetup/
+ 1974  python3 database_setup.py 
+ 1975  cd ..
+ 1976  cd briskly-server/
+ 1977  node test.js 
+ 1978  cd ..
+ 1979  cd DatabaseSetup/
+ 1980  python3 database_setup.py 
+ 1981  cd ..
+ 1982  cd briskly-server/
+ 1983  ls
+ 1984  node test.js 
+ 1985  cd ..
+ 1986  cd DatabaseSetup/
+ 1987  python3 database_setup.py 
+ 1988  cd ..
+ 1989  cd briskly-server/
+ 1990  ls
+ 1991  git status
+ 1992  git add .
+ 1993  git status
+ 1994  cd ..
+ 1995  git add .
+ 1996  git status
+ 1997  git commit -m 'merged backend with database'
+ 1998  git push origin database
+ 1999  npm start
+ 2000  cd briskly-server/
+ 2001  npm start
+ 2002  npm install
+ 2003  npm start
+ 2004  gedit /home/archimedes/.npm/_logs/2020-09-18T04_56_16_112Z-debug.log
+ 2005  ls
+ 2006  npm install package.json 
+ 2007  npm start
+ 2008  npm install nodemon
+ 2009  npm start
+ 2010  npm update
+ 2011  npm install bcrypt
+ 2012  sudo npm install bcrypt
+ 2013  sudo node update
+ 2014  node update
+ 2015  npm update
+ 2016  sudo npm update
+ 2017  sudo apt install build-essential 
+ 2018  sudo apt update && sudo apt upgrade
+ 2019  sudo apt-get install node-gyp
+ 2020  npm update
+ 2021  sudo npm update
+ 2022  npm uninstall bcrypt --save
+ 2023  npm i bcryptjs --save
+ 2024  npm audit fix
+ 2025  npm install --no-optional
+ 2026  npm audit fix
+ 2027  npm i -f
+ 2028  npm audit fix
+ 2029  npm i bcryptjs --save
+ 2030  npm start
+ 2031  npm install bcrypt
+ 2032  npm start
+ 2033  cd ..
+ 2034  git pull origin database 
+ 2035  cd briskly-server/
+ 2036  ls
+ 2037  npm start
+ 2038  git pull origin database 
+ 2039  git stash
+ 2040  git pull origin database 
+ 2041  npm start
+ 2042  npm i bcryptjs --save
+ 2043  sudo npm i bcryptjs --save
+ 2044  history
+ 2045  npm install bcrypt
+ 2046  sudo npm install bcrypt
+ 2047  history
+ 2048  npm i -f
+ 2049  npm audit fix
+ 2050  history'
+ 2051  ls
+ 2052  sudo npm audit fix
+ 2053  history
+ 2054  cd ..
+ 2055  history
+ 2056  npm uninstall bcrypt --save
+ 2057  npm i -f
+ 2058  cd briskly-server/
+ 2059  npm uninstall bcrypt --save
+ 2060  sudo npm uninstall bcrypt --save
+ 2061  history
+ 2062  npm i -f
+ 2063  npm audit fix
+ 2064  sudo npm audit fix
+ 2065  npm i bcryptjs --save
+ 2066  sudo npm i bcryptjs --save
+ 2067  npm start
+ 2068  sudo npm install bcrypt
+ 2069  npm udate
+ 2070  npm update
+ 2071  sudo npm install bcrypt
+ 2072  npm start
+ 2073  sudo apt install build-essential 
+ 2074  sudo apt-get install node-gyp
+ 2075  sudo npm install bcrypt
+ 2076  sudo apt-get install build-essential python2.7
+ 2077  npm install -g bcrypt
+ 2078  npm start
+ 2079  npm install n
+ 2080  sudo npm install n
+ 2081  npm start
+ 2082  yarn add bcrypt
+ 2083  sudo npm install bcrypt
+ 2084  sudo apt-get install -y build-essential python
+ 2085  history
+ 2086  history > history.txt

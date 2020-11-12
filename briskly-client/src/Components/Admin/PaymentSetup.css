@@ -1,0 +1,95 @@
+.container1{
+    display:inline-flex;
+    flex-wrap:wrap;
+    /* border:1px solid black; */
+    width: 100%;
+    margin-bottom: 2vh;
+  }
+  .flex-direction1{
+    flex-direction:row;
+  }
+  .div1{
+    /* border-right:1px solid black; */
+    /* background-color:#727272; */
+    /* width:165px; */
+    /* height:132px; */
+    width: 60%;
+}
+  
+  .div2{
+    /* background-color:#fff; */
+    /* width:314px; */
+    /* height:132px; */
+    /* width: 70%; */
+    
+  }
+  
+  span{
+    /* font-size: calc(0.3em + 1vmin); */
+    font-size: 16px;
+      font-weight:bold;
+      display: block;
+      /* line-height: 132px; */
+      /* text-align: center; */
+  }
+  
+  @media screen and (max-width: 500px) {
+    .flex-direction1{
+    flex-direction:column;
+    }
+  .div1{
+    /* width:202px; */
+    /* height:131px; */
+    /* border-right:none; */
+    /* border-bottom:1px solid black; */
+    width: 100%;
+    }
+    .div2{
+      /* width:202px; */
+      /* height:107px; */
+    }
+    .div2 span{
+      /* line-height:107px; */
+    }
+  
+  }
+  
+  #centerPayment{
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+    padding: 10px;
+  }
+
+  #current{
+    /* fontSize: 'calc(0.5em + 1vmin)' */
+    font-size: calc(0.5em + 2vmin);
+    font-weight:bold;
+    margin-bottom: 3vh;
+  }
+  #newFeesBtn{
+    height:4vh; 
+    margin-bottom: 4vh;
+    background-color: rgb(6,84,113);
+    border: 2px solid rgb(6,84,113);
+    width: 12%;
+    color: white;
+  }
+  #newFeesDiv{
+      text-align: center;
+      margin-bottom: 4vh;
+  }
+  #newFeesCancelBtn{
+    margin-right: 2%;
+    width: 8vw;
+    color: white;
+    background-color: rgb(184, 5, 5);
+    border: 2px solid rgb(184, 5, 5);
+  }
+  #newFeesSaveBtn{
+    margin-left: 2%;
+    width: 8vw;
+    color: white;
+    background-color: rgb(6,84,113);
+    border: 2px solid rgb(6,84,113);
+  }

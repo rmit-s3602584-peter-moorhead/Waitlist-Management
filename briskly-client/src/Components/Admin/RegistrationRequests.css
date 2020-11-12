@@ -1,0 +1,78 @@
+.flexDivs{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2%;
+}
+
+.flexLabelDivs{
+    width: 20%;
+
+
+}
+
+
+@media screen and (max-width: 500px) {
+    .flexDivs{
+        flex-direction: column;
+    }
+}
+
+.inputDiv{
+    width: 80%;
+}
+
+.textInput{
+    width: 34%;
+}
+
+.resultsDiv{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid rgb(6,84,113);
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#resultTitleDiv{
+    display: flex;
+    flex-direction: row;
+
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.resultItem{
+    width: 20%;
+    margin-left: 5%;
+    color: black;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+.resultTitle{
+    font-size: 20px;
+    font-weight: bold;
+    width: 20%;
+    margin-left: 5%;
+}
+
+.resultLink:hover{
+    text-decoration: none;
+    text-decoration-line: none;
+    
+}
+.resultLink:hover .resultsDiv{
+    background-color: rgb(6,84,113);
+    
+}
+.resultLink:hover .resultItem{
+    color: white;
+}

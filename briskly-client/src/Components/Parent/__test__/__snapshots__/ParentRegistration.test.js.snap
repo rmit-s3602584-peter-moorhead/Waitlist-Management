@@ -1,0 +1,1501 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  class="register-photo"
+>
+  <div
+    class="form-container"
+  >
+    <form
+      method="post"
+      onSubmit={[Function]}
+    >
+      <h2
+        class="text-center"
+      >
+        Complete Profile
+      </h2>
+      <label
+        class="title"
+      >
+        Personal Information
+      </label>
+      <div
+        class="form-group"
+      >
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "alignSelf": "center",
+                "width": "13.5%",
+              }
+            }
+          >
+            <label
+              style={
+                Object {
+                  "margin": "0px",
+                }
+              }
+            >
+              First Name:
+            </label>
+          </div>
+          <div
+            style={
+              Object {
+                "width": "70%",
+              }
+            }
+          >
+            <input
+              class="form-control"
+              name="firstName1"
+              placeholder="First Name"
+              style={
+                Object {
+                  "marginLeft": "1%",
+                  "padding": "0px",
+                  "width": "70%",
+                }
+              }
+              type="text"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "alignSelf": "center",
+                "width": "13.5%",
+              }
+            }
+          >
+            <label
+              style={
+                Object {
+                  "margin": "0px",
+                }
+              }
+            >
+              Last Name:
+            </label>
+          </div>
+          <div
+            style={
+              Object {
+                "width": "70%",
+              }
+            }
+          >
+            <input
+              class="form-control"
+              name="lastName1"
+              placeholder="Last Name"
+              style={
+                Object {
+                  "marginLeft": "1%",
+                  "padding": "0px",
+                  "width": "70%",
+                }
+              }
+              type="text"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "alignSelf": "center",
+                "width": "13.5%",
+              }
+            }
+          >
+            <label
+              style={
+                Object {
+                  "margin": "0px",
+                }
+              }
+            >
+              Password:
+            </label>
+          </div>
+          <div
+            style={
+              Object {
+                "width": "70%",
+              }
+            }
+          >
+            <input
+              class="form-control"
+              name="userName1"
+              placeholder="Password"
+              style={
+                Object {
+                  "marginLeft": "1%",
+                  "padding": "0px",
+                  "width": "70%",
+                }
+              }
+              type="password"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "alignSelf": "center",
+                "width": "13.5%",
+              }
+            }
+          >
+            <label
+              style={
+                Object {
+                  "margin": "0px",
+                }
+              }
+            >
+              Resenter Password:
+            </label>
+          </div>
+          <div
+            style={
+              Object {
+                "width": "70%",
+              }
+            }
+          >
+            <input
+              class="form-control"
+              name="password"
+              placeholder="Password"
+              style={
+                Object {
+                  "marginLeft": "1%",
+                  "padding": "0px",
+                  "width": "70%",
+                }
+              }
+              type="password"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "alignSelf": "center",
+                "width": "13.5%",
+              }
+            }
+          >
+            <label
+              style={
+                Object {
+                  "margin": "0px",
+                }
+              }
+            >
+              Username:
+            </label>
+          </div>
+          <div
+            style={
+              Object {
+                "width": "70%",
+              }
+            }
+          >
+            <input
+              class="form-control"
+              name="passwordRepeat"
+              placeholder="Username"
+              style={
+                Object {
+                  "marginLeft": "1%",
+                  "padding": "0px",
+                  "width": "70%",
+                }
+              }
+              type="text"
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "marginTop": "1%",
+                "width": "14%",
+              }
+            }
+          >
+            <label
+              style={
+                Object {
+                  "margin": "0px",
+                }
+              }
+            >
+              Relationship:
+            </label>
+          </div>
+          <div
+            style={
+              Object {
+                "width": "25%",
+              }
+            }
+          >
+            <select
+              class="form-control"
+              name="relationship1"
+            >
+              <option>
+                Select Relationship
+              </option>
+              <option
+                name="relationship1"
+                value="Single"
+              >
+                Single
+              </option>
+              <option
+                name="relationship1"
+                value="Married"
+              >
+                Married
+              </option>
+              <option
+                name="relationship1"
+                value="Divorced"
+              >
+                Divorced
+              </option>
+              <option
+                name="relationship1"
+                value="Widowed"
+              >
+                Widowed
+              </option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "width": "14%",
+              }
+            }
+          >
+            <label
+              style={
+                Object {
+                  "margin": "0px",
+                  "marginTop": "5%",
+                }
+              }
+            >
+              Date of birth:
+            </label>
+          </div>
+          <div>
+            <input
+              class="form-control"
+              name="birthday1"
+              type="date"
+            />
+          </div>
+        </div>
+      </div>
+      <div>
+        <label
+          class="title"
+        >
+          Address and Contact information
+        </label>
+        <div
+          class="form-group"
+        >
+          <label>
+            Street Address:
+          </label>
+          <input
+            class="form-control"
+            name="homeAddress1"
+            placeholder="Street Address"
+            type="text"
+          />
+        </div>
+        <div>
+          <div
+            class="form-group"
+          >
+            <div
+              style={
+                Object {
+                  "display": "flex",
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <div
+                class="countryStateCityLabel"
+              >
+                <label
+                  style={
+                    Object {
+                      "fontSize": "calc(0.5em + 1vmin)",
+                    }
+                  }
+                >
+                  Country:
+                </label>
+              </div>
+              <div
+                style={
+                  Object {
+                    "width": "50%",
+                  }
+                }
+              >
+                <select
+                  class="form-control countryStateCityDropdown"
+                  id="country"
+                  name="country1"
+                  onChange={[Function]}
+                >
+                  <option
+                    aria-expanded="false"
+                    data-toggle="dropdown"
+                    style={
+                      Object {
+                        "backgroundColor": "rgb(219,222,225)",
+                        "color": "rgb(0,0,0)",
+                        "margin": 0,
+                      }
+                    }
+                  >
+                    Select Country
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div
+            class="form-group"
+          >
+            <div
+              style={
+                Object {
+                  "display": "flex",
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <div
+                class="countryStateCityLabel"
+              >
+                <label
+                  style={
+                    Object {
+                      "fontSize": "calc(0.5em + 1vmin)",
+                    }
+                  }
+                >
+                  State/Province:
+                </label>
+              </div>
+              <div
+                style={
+                  Object {
+                    "width": "50%",
+                  }
+                }
+              >
+                <select
+                  class="form-control countryStateCityDropdown"
+                  name="state1"
+                  onChange={[Function]}
+                >
+                  <option
+                    aria-expanded="false"
+                    data-toggle="dropdown"
+                    style={
+                      Object {
+                        "backgroundColor": "rgb(219,222,225)",
+                        "color": "rgb(0,0,0)",
+                        "margin": 0,
+                      }
+                    }
+                  >
+                    Select State/Province
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div
+            class="form-group"
+          >
+            <div
+              style={
+                Object {
+                  "display": "flex",
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <div
+                class="countryStateCityLabel"
+              >
+                <label
+                  style={
+                    Object {
+                      "fontSize": "calc(0.5em + 1vmin)",
+                      "margin": "0px",
+                    }
+                  }
+                >
+                  City:
+                </label>
+              </div>
+              <div
+                style={
+                  Object {
+                    "width": "50%",
+                  }
+                }
+              >
+                <select
+                  class="form-control countryStateCityDropdown"
+                  name="city1"
+                >
+                  <option
+                    aria-expanded="false"
+                    data-toggle="dropdown"
+                    style={
+                      Object {
+                        "backgroundColor": "rgb(219,222,225)",
+                        "color": "rgb(0,0,0)",
+                        "margin": 0,
+                      }
+                    }
+                  >
+                    Select City
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "width": "20%",
+                }
+              }
+            >
+              <label
+                style={
+                  Object {
+                    "margin": "0px",
+                  }
+                }
+              >
+                Postal/Zip code:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "70%",
+                }
+              }
+            >
+              <input
+                class="form-control"
+                name="homeZipCode1"
+                placeholder="Post/Zip code"
+                style={
+                  Object {
+                    "width": "40%",
+                  }
+                }
+                type="text"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "width": "20%",
+                }
+              }
+            >
+              <label
+                style={
+                  Object {
+                    "margin": "0px",
+                  }
+                }
+              >
+                Phone Number:
+              </label>
+            </div>
+            <div
+              class="dropdown dropDownMenu"
+              style={
+                Object {
+                  "marginRight": "2%",
+                  "width": "20%",
+                }
+              }
+            >
+              <select
+                class="form-control countryStateCityDropdown"
+                name="countryCode1"
+                style={
+                  Object {
+                    "fontSize": "100%",
+                    "height": "100%",
+                    "width": "100%",
+                  }
+                }
+              >
+                <option>
+                  Country Code
+                </option>
+              </select>
+            </div>
+            <input
+              class="form-control"
+              name="phoneNumber1"
+              placeholder="XXXXXXXXX"
+              style={
+                Object {
+                  "width": "25%",
+                }
+              }
+              type="text"
+            />
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "width": "20%",
+                }
+              }
+            >
+              <label
+                style={
+                  Object {
+                    "margin": "0px",
+                  }
+                }
+              >
+                Email Address:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "70%",
+                }
+              }
+            >
+              <input
+                class="form-control"
+                name="personalEmail1"
+                placeholder="e.g. jon@gmail.com"
+                style={
+                  Object {
+                    "width": "60%",
+                  }
+                }
+                type="text"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <label
+          class="title"
+        >
+          Occupational Information
+        </label>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "width": "20%",
+                }
+              }
+            >
+              <label
+                style={
+                  Object {
+                    "margin": "0px",
+                  }
+                }
+              >
+                Occupation/Position:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "70%",
+                }
+              }
+            >
+              <input
+                class="form-control"
+                name="occupation1"
+                placeholder="e.g. jon@gmail.com"
+                style={
+                  Object {
+                    "marginLeft": "1%",
+                    "padding": "0px",
+                    "width": "70%",
+                  }
+                }
+                type="text"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "width": "20%",
+                }
+              }
+            >
+              <label
+                style={
+                  Object {
+                    "margin": "0px",
+                  }
+                }
+              >
+                Company:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "70%",
+                }
+              }
+            >
+              <input
+                class="form-control"
+                name="company1"
+                placeholder="Company Name"
+                style={
+                  Object {
+                    "marginLeft": "1%",
+                    "padding": "0px",
+                    "width": "70%",
+                  }
+                }
+                type="text"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "width": "20%",
+                }
+              }
+            >
+              <label
+                style={
+                  Object {
+                    "margin": "0px",
+                  }
+                }
+              >
+                Nature of business:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "70%",
+                }
+              }
+            >
+              <input
+                class="form-control"
+                name="natureOfBusiness1"
+                placeholder="IT/Marketing/Retail/Service"
+                style={
+                  Object {
+                    "marginLeft": "1%",
+                    "padding": "0px",
+                    "width": "70%",
+                  }
+                }
+                type="text"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "width": "20%",
+                }
+              }
+            >
+              <label
+                style={
+                  Object {
+                    "margin": "0px",
+                  }
+                }
+              >
+                Years with company:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "70%",
+                }
+              }
+            >
+              <input
+                class="form-control"
+                name="yearsWithCompany1"
+                placeholder="e.g. 10"
+                style={
+                  Object {
+                    "marginLeft": "1%",
+                    "padding": "0px",
+                    "width": "20%",
+                  }
+                }
+                type="text"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <label
+          class="title"
+        >
+          Business Address
+        </label>
+        <div
+          class="form-group"
+        >
+          <label>
+            Street Address:
+          </label>
+          <input
+            class="form-control"
+            name="businessAddress1"
+            placeholder="Street Address"
+            type="text"
+          />
+        </div>
+        <div>
+          <div
+            class="form-group"
+          >
+            <div
+              style={
+                Object {
+                  "display": "flex",
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <div
+                class="countryStateCityLabel"
+              >
+                <label
+                  style={
+                    Object {
+                      "fontSize": "calc(0.5em + 1vmin)",
+                    }
+                  }
+                >
+                  Country:
+                </label>
+              </div>
+              <div
+                style={
+                  Object {
+                    "width": "50%",
+                  }
+                }
+              >
+                <select
+                  class="form-control countryStateCityDropdown"
+                  id="country"
+                  name="businessCountry1"
+                  onChange={[Function]}
+                >
+                  <option
+                    aria-expanded="false"
+                    data-toggle="dropdown"
+                    style={
+                      Object {
+                        "backgroundColor": "rgb(219,222,225)",
+                        "color": "rgb(0,0,0)",
+                        "margin": 0,
+                      }
+                    }
+                  >
+                    Select Country
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div
+            class="form-group"
+          >
+            <div
+              style={
+                Object {
+                  "display": "flex",
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <div
+                class="countryStateCityLabel"
+              >
+                <label
+                  style={
+                    Object {
+                      "fontSize": "calc(0.5em + 1vmin)",
+                    }
+                  }
+                >
+                  State/Province:
+                </label>
+              </div>
+              <div
+                style={
+                  Object {
+                    "width": "50%",
+                  }
+                }
+              >
+                <select
+                  class="form-control countryStateCityDropdown"
+                  name="businessState1"
+                  onChange={[Function]}
+                >
+                  <option
+                    aria-expanded="false"
+                    data-toggle="dropdown"
+                    style={
+                      Object {
+                        "backgroundColor": "rgb(219,222,225)",
+                        "color": "rgb(0,0,0)",
+                        "margin": 0,
+                      }
+                    }
+                  >
+                    Select State/Province
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div
+            class="form-group"
+          >
+            <div
+              style={
+                Object {
+                  "display": "flex",
+                  "flexDirection": "row",
+                }
+              }
+            >
+              <div
+                class="countryStateCityLabel"
+              >
+                <label
+                  style={
+                    Object {
+                      "fontSize": "calc(0.5em + 1vmin)",
+                      "margin": "0px",
+                    }
+                  }
+                >
+                  City:
+                </label>
+              </div>
+              <div
+                style={
+                  Object {
+                    "width": "50%",
+                  }
+                }
+              >
+                <select
+                  class="form-control countryStateCityDropdown"
+                  name="businessCity1"
+                >
+                  <option
+                    aria-expanded="false"
+                    data-toggle="dropdown"
+                    style={
+                      Object {
+                        "backgroundColor": "rgb(219,222,225)",
+                        "color": "rgb(0,0,0)",
+                        "margin": 0,
+                      }
+                    }
+                  >
+                    Select City
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "width": "20%",
+                }
+              }
+            >
+              <label
+                style={
+                  Object {
+                    "margin": "0px",
+                  }
+                }
+              >
+                Postal/Zip code:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "70%",
+                }
+              }
+            >
+              <input
+                class="form-control"
+                name="businessZipCode1"
+                placeholder="Post/Zip code"
+                style={
+                  Object {
+                    "width": "40%",
+                  }
+                }
+                type="text"
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "width": "20%",
+                }
+              }
+            >
+              <label
+                style={
+                  Object {
+                    "margin": "0px",
+                  }
+                }
+              >
+                Phone Number:
+              </label>
+            </div>
+            <div
+              class="dropdown dropDownMenu"
+              style={
+                Object {
+                  "marginRight": "2%",
+                  "width": "20%",
+                }
+              }
+            >
+              <select
+                class="form-control countryStateCityDropdown"
+                name="businessCountryCode1"
+                style={
+                  Object {
+                    "fontSize": "100%",
+                    "height": "100%",
+                    "width": "100%",
+                  }
+                }
+              >
+                <option>
+                  Country Code
+                </option>
+              </select>
+            </div>
+            <input
+              class="form-control"
+              name="businessPhoneNumber1"
+              placeholder="XXXXXXXXX"
+              style={
+                Object {
+                  "width": "25%",
+                }
+              }
+              type="text"
+            />
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "alignSelf": "center",
+                  "width": "20%",
+                }
+              }
+            >
+              <label
+                style={
+                  Object {
+                    "margin": "0px",
+                  }
+                }
+              >
+                Email Address:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "70%",
+                }
+              }
+            >
+              <input
+                class="form-control"
+                name="businessEmail1"
+                placeholder="e.g. jon@gmail.com"
+                style={
+                  Object {
+                    "width": "60%",
+                  }
+                }
+                type="text"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <button
+          class="btn btn-primary"
+          id="addGuardian"
+          onClick={[Function]}
+          style={
+            Object {
+              "backgroundColor": "rgb(6,84,113)",
+            }
+          }
+          type="button"
+        >
+          Add Another Parent/Guardian
+        </button>
+      </div>
+      <div>
+        <label
+          class="title"
+          style={
+            Object {
+              "marginTop": "3%",
+            }
+          }
+        >
+          Select profile type
+        </label>
+        <div
+          class="form-row justify-content-center features"
+        >
+          <button
+            class="col-sm-6 col-md-5 col-lg-4 item ProfileType"
+            id="free"
+            onClick={[Function]}
+            onMouseLeave={[Function]}
+            onMouseOver={[Function]}
+            style={
+              Object {
+                "backgroundColor": "white",
+                "borderColor": "rgb(6,84,113)",
+                "borderRadius": "2%",
+                "borderStyle": "solid",
+                "marginLeft": "7.5%",
+                "marginRight": "2.5%",
+                "width": "40%",
+              }
+            }
+            type="button"
+          >
+            <span
+              class="box"
+              style={
+                Object {
+                  "paddingBottom": "50%",
+                }
+              }
+            >
+              <h3
+                class="name"
+              >
+                Free
+              </h3>
+              <span
+                class="box"
+              >
+                <span>
+                  <label>
+                    - Feature 1
+                  </label>
+                </span>
+                <span>
+                  <label>
+                    - Feature 2
+                  </label>
+                </span>
+                <span>
+                  <label>
+                    - Feature 3
+                  </label>
+                </span>
+              </span>
+            </span>
+          </button>
+          <button
+            class="col-sm-6 col-md-5 col-lg-4 item ProfileType"
+            id="premium"
+            onClick={[Function]}
+            onMouseLeave={[Function]}
+            onMouseOver={[Function]}
+            style={
+              Object {
+                "backgroundColor": "white",
+                "borderColor": "rgb(6,84,113)",
+                "borderRadius": "2%",
+                "borderStyle": "solid",
+                "marginLeft": "2.5%",
+                "marginRight": "7.5%",
+                "width": "40%",
+              }
+            }
+            type="button"
+          >
+            <span
+              class="box"
+              style={
+                Object {
+                  "paddingBottom": "10%",
+                }
+              }
+            >
+              <h3
+                class="name"
+              >
+                Premium
+              </h3>
+              <span>
+                <label>
+                  - Feature 1
+                </label>
+              </span>
+              <span>
+                <label>
+                  - Feature 2
+                </label>
+              </span>
+              <span>
+                <label>
+                  - Feature 3
+                </label>
+              </span>
+              <span>
+                <label>
+                  - Feature 4
+                </label>
+              </span>
+              <span>
+                <label>
+                  - Feature 5
+                </label>
+              </span>
+              <span>
+                <label>
+                  - Feature 6
+                </label>
+              </span>
+            </span>
+          </button>
+        </div>
+        <input
+          name="profileType"
+          type="hidden"
+          value="none"
+        />
+      </div>
+      <div
+        class="form-group"
+        style={
+          Object {
+            "marginTop": "8%",
+          }
+        }
+      >
+        <button
+          class="btn btn-primary nurseryApplicationButtons"
+          style={
+            Object {
+              "backgroundColor": "rgb(157,0,0)",
+              "margin": 0,
+              "marginLeft": "7.5%",
+              "marginRight": "2.5%",
+              "width": "40%",
+            }
+          }
+          type="button"
+        >
+          Cancel
+        </button>
+        <button
+          class="btn btn-primary"
+          style={
+            Object {
+              "backgroundColor": "rgb(1,106,1)",
+              "margin": 0,
+              "marginLeft": "2.5%",
+              "marginRight": "7.5%",
+              "width": "40%",
+            }
+          }
+          type="submit"
+        >
+          Register
+        </button>
+      </div>
+    </form>
+  </div>
+</div>
+`;

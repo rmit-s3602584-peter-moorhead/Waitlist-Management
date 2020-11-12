@@ -1,0 +1,58 @@
+.titles{
+    /* font-size: calc(0.5em + 1vmin); */
+}
+
+#attachment{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2%;
+}
+.distance{
+    margin-left: 4vw;
+}
+input{
+    /* font-size: calc(0.5em + 1vmin); */
+}
+@media screen and (max-width: 500px) {
+    #attachment{
+        flex-direction: column;
+    }
+}
+
+#attachmentLabelDiv{
+    width: 25%;
+    
+}
+#sendDiv{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    
+}
+
+#sendBtn{
+    background-color: rgb(6,84,113);
+    border: 2px solid rgb(6,84,113);
+    color: white;
+    width: 20%;
+    height:20%;
+}
+.notificationTitle{
+    font-weight: bold;
+    font-size: calc(0.5em + 1vmin);
+}
+#nTitleDiv{
+    text-align: center;
+}
+#nTitle{
+    font-size: calc(0.5em + 2.5vmin);
+    font-weight: bold;
+}
+#notificationSent{
+    font-weight: bold;
+    color: rgb(0,128,0);
+    font-size: calc(0.5em + 2.5vmin);
+}
+#notificationSentDiv{
+    text-align: center;
+}

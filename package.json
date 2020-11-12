@@ -1,0 +1,20 @@
+{
+  "name": "waitlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s3664099/Waitlist_management.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s3664099/Waitlist_management/issues"
+  },
+  "homepage": "https://github.com/s3664099/Waitlist_management#readme",
+  "dependencies": {}
+}

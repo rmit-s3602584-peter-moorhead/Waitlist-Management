@@ -1,0 +1,1122 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  class="register-photo"
+  data-test="NurseryRegistration"
+>
+  <div
+    class="form-container"
+  >
+    <form
+      id="nurseryForm"
+      method="post"
+      onSubmit={[Function]}
+    >
+      <h2
+        class="text-center"
+      >
+        Nursery Registration
+      </h2>
+      <div
+        class="form-group"
+      >
+        <label>
+          Nursery Name:
+        </label>
+        <input
+          class="form-control"
+          name="nurseryName"
+          placeholder="Nursery name"
+          type="text"
+        />
+      </div>
+      <div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              class="countryStateCityLabel"
+            >
+              <label
+                style={
+                  Object {
+                    "fontSize": "calc(0.5em + 1vmin)",
+                  }
+                }
+              >
+                Country:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "50%",
+                }
+              }
+            >
+              <select
+                class="form-control countryStateCityDropdown"
+                id="country"
+                name="country"
+                onChange={[Function]}
+              >
+                <option
+                  aria-expanded="false"
+                  data-toggle="dropdown"
+                  style={
+                    Object {
+                      "backgroundColor": "rgb(219,222,225)",
+                      "color": "rgb(0,0,0)",
+                      "margin": 0,
+                    }
+                  }
+                >
+                  Select Country
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              class="countryStateCityLabel"
+            >
+              <label
+                style={
+                  Object {
+                    "fontSize": "calc(0.5em + 1vmin)",
+                  }
+                }
+              >
+                State/Province:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "50%",
+                }
+              }
+            >
+              <select
+                class="form-control countryStateCityDropdown"
+                name="state"
+                onChange={[Function]}
+              >
+                <option
+                  aria-expanded="false"
+                  data-toggle="dropdown"
+                  style={
+                    Object {
+                      "backgroundColor": "rgb(219,222,225)",
+                      "color": "rgb(0,0,0)",
+                      "margin": 0,
+                    }
+                  }
+                >
+                  Select State/Province
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              class="countryStateCityLabel"
+            >
+              <label
+                style={
+                  Object {
+                    "fontSize": "calc(0.5em + 1vmin)",
+                    "margin": "0px",
+                  }
+                }
+              >
+                City:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "50%",
+                }
+              }
+            >
+              <select
+                class="form-control countryStateCityDropdown"
+                name="city"
+              >
+                <option
+                  aria-expanded="false"
+                  data-toggle="dropdown"
+                  style={
+                    Object {
+                      "backgroundColor": "rgb(219,222,225)",
+                      "color": "rgb(0,0,0)",
+                      "margin": 0,
+                    }
+                  }
+                >
+                  Select City
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "column",
+            }
+          }
+        >
+          <label>
+            Please list all your programs:
+          </label>
+        </div>
+        <div>
+          <button
+            class="btn btn-outline-primary text-truncate float-none float-sm-none add-another-btn"
+            data-bs-hover-animate="pulse"
+            id="addProgram"
+            onClick={[Function]}
+            style={
+              Object {
+                "borderColor": "rgb(6,84,113)",
+                "color": "rgb(80,94,108)",
+                "fontSize": "1.3vw",
+                "width": "25%",
+              }
+            }
+            type="button"
+          >
+            Add Program
+            <i
+              class="fas fa-plus-circle edit-icon"
+              style={
+                Object {
+                  "borderColor": "rgb(6,84,113)",
+                  "color": "rgb(6,84,113)",
+                }
+              }
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          style={
+            Object {
+              "border": "2px solid rgb(6,84,113)",
+              "borderRadius": "12px",
+              "display": "flex",
+              "flexDirection": "column",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "padding": "8px",
+              }
+            }
+          >
+            <div>
+              <label>
+                Program name:
+              </label>
+              <input
+                class="form-control"
+                data-key={0}
+                name="programId-0"
+                placeholder="Program Name"
+                type="text"
+              />
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "20%",
+                }
+              }
+            >
+              <label>
+                Number of children :
+              </label>
+              <input
+                class="form-control"
+                data-key={0}
+                name="studentsIn-0"
+                placeholder="e.g. 10"
+                type="number"
+              />
+            </div>
+            <div
+              style={
+                Object {
+                  "marginTop": "2%",
+                  "width": "20%",
+                }
+              }
+            >
+                
+              <button
+                id="removeBtn"
+                onClick={[Function]}
+                type="button"
+              >
+                Remove
+              </button>
+                
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          Nursery photo catalog:  
+        </label>
+        <input
+          name="catalog"
+          type="file"
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          Nursery's special requirements:
+        </label>
+        <textarea
+          class="form-control"
+          cols="50"
+          form="nurseryForm"
+          name="specialRequirements"
+          placeholder="e.g. The nursery does not allow any refund after the first 2 weeks"
+          rows="10"
+          style={
+            Object {
+              "height": "100%",
+            }
+          }
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          Nursery commercial registration number:
+        </label>
+        <input
+          class="form-control"
+          name="crn"
+          placeholder="e.g. 2907402035"
+          type="text"
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          Nursery's phone number:
+        </label>
+        <div
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "row",
+            }
+          }
+        >
+          <div
+            class="dropdown dropDownMenu"
+            style={
+              Object {
+                "marginRight": "2%",
+                "width": "20%",
+              }
+            }
+          >
+            <select
+              class="form-control countryStateCityDropdown"
+              name="code"
+              style={
+                Object {
+                  "fontSize": "100%",
+                  "height": "100%",
+                  "width": "100%",
+                }
+              }
+            >
+              <option>
+                Country Code
+              </option>
+            </select>
+          </div>
+          <input
+            class="form-control"
+            name="phoneNumber"
+            placeholder="XXXXXXXXX"
+            style={
+              Object {
+                "width": "40%",
+              }
+            }
+            type="text"
+          />
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          Nursery's email address:
+        </label>
+        <input
+          class="form-control"
+          name="email"
+          placeholder="e.g. nursery@gmail.com"
+          type="text"
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          Main username:
+        </label>
+        <input
+          class="form-control"
+          name="username"
+          placeholder="e.g. Nursery1Main"
+          type="text"
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          Password:
+        </label>
+        <input
+          class="form-control"
+          name="password"
+          placeholder="Password"
+          type="password"
+        />
+      </div>
+      <div
+        class="form-group"
+      >
+        <input
+          class="form-control"
+          name="confirmPassword"
+          placeholder="Confirm password"
+          type="password"
+        />
+      </div>
+      <div
+        style={
+          Object {
+            "fontWeight": "bold",
+            "marginTop": "12px",
+          }
+        }
+      >
+        <label
+          class="title"
+        >
+          The following will help parents find your nursery faster:
+        </label>
+      </div>
+      <div>
+        <label>
+          Select any of the following if it applies to you:
+        </label>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-2"
+            name="ChildCareFeedReduction"
+            type="checkbox"
+            value="yes"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-2"
+          >
+            Your center is a member of the Child Care Fee Reduction Initiative
+          </label>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-3"
+            name="ECE"
+            type="checkbox"
+            value="yes"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-3"
+          >
+            ECE (Early Childhood Education) Certification
+          </label>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-4"
+            name="ELF"
+            type="checkbox"
+            value="yes"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-4"
+          >
+            ELF (Early Learning Framework) Programming
+          </label>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div>
+          <label>
+            Facility type:
+          </label>
+          <div
+            class="form-check"
+          >
+            <input
+              class="form-check-input"
+              id="formCheck-9"
+              name="facilityType"
+              type="radio"
+              value="Licensed Family"
+            />
+            <label
+              class="form-check-label"
+              for="formCheck-9"
+            >
+              Licensed Family
+            </label>
+          </div>
+          <div
+            class="form-check"
+          >
+            <input
+              class="form-check-input"
+              id="formCheck-10"
+              name="facilityType"
+              type="radio"
+              value="Licensed Group"
+            />
+            <label
+              class="form-check-label"
+              for="formCheck-10"
+            >
+              Licensed Group
+            </label>
+          </div>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          Program(s):
+        </label>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-11"
+            name="programs-1"
+            type="checkbox"
+            value="Under 36 Months"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-11"
+          >
+            Under 36 Months
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-14"
+            name="programs-2"
+            type="checkbox"
+            value="3 years to Kindergarten"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-14"
+          >
+            3 years to Kindergarten
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-13"
+            name="programs-3"
+            type="checkbox"
+            value="Licensed Preschool"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-13"
+          >
+            Licensed Preschool
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-12"
+            name="programs-4"
+            type="checkbox"
+            value="School Age: Grade 1 to Age 12"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-12"
+          >
+            School Age: Grade 1 to Age 12
+          </label>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          House of Operation:
+        </label>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-15"
+            name="HouseOfOperation-1"
+            type="checkbox"
+            value="Weekdays"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-15"
+          >
+            Weekdays
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-20"
+            name="HouseOfOperation-2"
+            type="checkbox"
+            value="Weekends"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-20"
+          >
+            Weekends
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-19"
+            name="HouseOfOperation-3"
+            type="checkbox"
+            value="Statutory Holidays"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-19"
+          >
+            Statutory Holidays
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-18"
+            name="HouseOfOperation-4"
+            type="checkbox"
+            value="Overnight"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-18"
+          >
+            Overnight
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-17"
+            name="HouseOfOperation-5"
+            type="checkbox"
+            value="Weekdays Before 6am"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-17"
+          >
+            Weekdays Before 6am
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-16"
+            name="HouseOfOperation-6"
+            type="checkbox"
+            value="Weekdays After 7pm"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-16"
+          >
+            Weekdays After 7pm
+          </label>
+        </div>
+      </div>
+      <label
+        class="title"
+      >
+        Services Offered:
+      </label>
+      <div
+        class="form-group"
+      >
+        <label>
+          1- Meal Services:
+        </label>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-21"
+            name="MealServices"
+            type="radio"
+            value="Extra Fee"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-21"
+          >
+            Extra Fee
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-23"
+            name="MealServices"
+            type="radio"
+            value="Included in fee"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-23"
+          >
+            Included in fee
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-22"
+            name="MealServices"
+            type="radio"
+            value="Not offered"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-22"
+          >
+            Not offered
+          </label>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          2- Pick-up Service:
+        </label>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-24"
+            name="pickup"
+            type="radio"
+            value="Extra Fee"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-24"
+          >
+            Extra Fee
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-26"
+            name="pickup"
+            type="radio"
+            value="Included in fee"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-26"
+          >
+            Included in fee
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-25"
+            name="pickup"
+            type="radio"
+            value="Not offered"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-25"
+          >
+            Not offered
+          </label>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          3- Language:
+        </label>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-50"
+            name="Language-6"
+            type="checkbox"
+            value="English"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-50"
+          >
+            English
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-27"
+            name="Language-1"
+            type="checkbox"
+            value="Cantonese"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-27"
+          >
+            Cantonese
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-31"
+            name="Language-2"
+            type="checkbox"
+            value="French"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-31"
+          >
+            French
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-30"
+            name="Language-3"
+            type="checkbox"
+            value="Mandarin"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-30"
+          >
+            Mandarin
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-29"
+            name="Language-4"
+            type="checkbox"
+            value="Punjabi"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-29"
+          >
+            Punjabi
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-28"
+            name="Language-5"
+            type="checkbox"
+            value="Spanish"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-28"
+          >
+            Spanish
+          </label>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          Aboriginal Programming:
+        </label>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-5"
+            name="Aboriginal"
+            type="radio"
+            value="yes"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-5"
+          >
+            Yes
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-6"
+            name="Aboriginal"
+            type="radio"
+            value="no"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-6"
+          >
+            No
+          </label>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <label>
+          Special Needs
+        </label>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-7"
+            name="specialNeeds"
+            type="radio"
+            value="yes"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-7"
+          >
+            Yes
+          </label>
+        </div>
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-8"
+            name="specialNeeds"
+            type="radio"
+            value="no"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-8"
+          >
+            No
+          </label>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <div
+          class="form-check"
+        >
+          <input
+            class="form-check-input"
+            id="formCheck-1"
+            name="MoreChanceWithSiblings"
+            type="checkbox"
+            value="yes"
+          />
+          <label
+            class="form-check-label"
+            for="formCheck-1"
+          >
+            Check if your offer more chance of enrolment for siblings
+          </label>
+        </div>
+      </div>
+      <div
+        class="form-group"
+      >
+        <button
+          class="btn btn-primary btn-block"
+          style={
+            Object {
+              "backgroundColor": "rgb(6,84,113)",
+            }
+          }
+          type="submit"
+        >
+          Proceed to payment
+        </button>
+      </div>
+      <a
+        class="already"
+        href="/login"
+      >
+        You already have an account? Login here.
+      </a>
+    </form>
+  </div>
+</div>
+`;

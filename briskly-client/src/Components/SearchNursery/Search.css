@@ -1,0 +1,21 @@
+.titles{
+    font-weight: bold;
+    font-size: calc(0.5em + 1vmin);
+}
+#apply{
+    background-color: rgb(6,84,113);
+    border: 2px solid rgb(6,84,113);
+    color: white;
+    border-radius: 10px;
+    font-size: calc(0.7em + 1.2vmin);
+    margin-bottom: 2%;
+
+}
+#applyBtnDiv{
+    text-align: center;
+}
+#selectChild{
+    width: 10%;
+    font-weight: bold;
+    font-size: calc(0.5em + 1vmin);
+}

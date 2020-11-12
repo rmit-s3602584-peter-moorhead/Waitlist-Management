@@ -1,0 +1,218 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  class="container"
+>
+  <form
+    method="post"
+    onSubmit={[Function]}
+  >
+    <div
+      style={
+        Object {
+          "marginBottom": "3vh",
+          "marginTop": "3vh",
+          "textAlign": "center",
+        }
+      }
+    >
+      <h2>
+         This form will help you reach the nursery that you are looking for
+      </h2>
+    </div>
+    <label
+      class="title"
+    >
+      Geographical Area
+    </label>
+    <div>
+      <div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              class="countryStateCityLabel"
+            >
+              <label
+                style={
+                  Object {
+                    "fontSize": "calc(0.5em + 1vmin)",
+                  }
+                }
+              >
+                Country:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "50%",
+                }
+              }
+            >
+              <select
+                class="form-control countryStateCityDropdown"
+                id="country"
+                name="country"
+                onChange={[Function]}
+              >
+                <option
+                  aria-expanded="false"
+                  data-toggle="dropdown"
+                  style={
+                    Object {
+                      "backgroundColor": "rgb(219,222,225)",
+                      "color": "rgb(0,0,0)",
+                      "margin": 0,
+                    }
+                  }
+                >
+                  Select Country
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              class="countryStateCityLabel"
+            >
+              <label
+                style={
+                  Object {
+                    "fontSize": "calc(0.5em + 1vmin)",
+                  }
+                }
+              >
+                State/Province:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "50%",
+                }
+              }
+            >
+              <select
+                class="form-control countryStateCityDropdown"
+                name="state"
+                onChange={[Function]}
+              >
+                <option
+                  aria-expanded="false"
+                  data-toggle="dropdown"
+                  style={
+                    Object {
+                      "backgroundColor": "rgb(219,222,225)",
+                      "color": "rgb(0,0,0)",
+                      "margin": 0,
+                    }
+                  }
+                >
+                  Select State/Province
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div
+          class="form-group"
+        >
+          <div
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+              }
+            }
+          >
+            <div
+              class="countryStateCityLabel"
+            >
+              <label
+                style={
+                  Object {
+                    "fontSize": "calc(0.5em + 1vmin)",
+                    "margin": "0px",
+                  }
+                }
+              >
+                City:
+              </label>
+            </div>
+            <div
+              style={
+                Object {
+                  "width": "50%",
+                }
+              }
+            >
+              <select
+                class="form-control countryStateCityDropdown"
+                name="city"
+              >
+                <option
+                  aria-expanded="false"
+                  data-toggle="dropdown"
+                  style={
+                    Object {
+                      "backgroundColor": "rgb(219,222,225)",
+                      "color": "rgb(0,0,0)",
+                      "margin": 0,
+                    }
+                  }
+                >
+                  Select City
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      id="advancedSearchButton"
+      onClick={[Function]}
+      type="button"
+    >
+      Advanced Search
+    </button>
+    <div
+      class="form-group"
+      style={
+        Object {
+          "textAlign": "center",
+          "width": "100%",
+        }
+      }
+    >
+      <button
+        class="btn search"
+        type="submit"
+      >
+        Search
+      </button>
+    </div>
+  </form>
+</div>
+`;
